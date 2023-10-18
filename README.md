@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Kapil Singh Negi!  
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=08BA00&center=true&vCenter=true&multiline=true&random=false&width=350&height=75&lines=Welcome+to;Kapil+Singh+Negi's+Github" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=08BA00&center=true&vCenter=true&multiline=true&random=false&width=350&height=75&lines=Welcome+to;Kapil+Singh+Negi's+Github" alt="Typing SVG" /></a></div>
 
 ### Glad to see you here!  
 I'm a student who loves experimenting with technology and learning new things. In the ever-evolving world of technology, I'm committed to continuous learning. I stay up-to-date with the latest trends, tools, and best practices in web development. I'm always on the lookout for exciting projects, collaborations, and networking opportunities. If you're looking to discuss a project, or simply want to connect with a fellow tech enthusiast, don't hesitate to get in touch.<br>
