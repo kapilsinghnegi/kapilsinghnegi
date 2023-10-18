@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Kapil Singh Negi!  
 ### Glad to see you here!  
-I'm a student who loves experimenting with technology and learning new things. In the ever-evolving world of technology, I'm committed to continuous learning. I stay up-to-date with the latest trends, tools, and best practices in web development. I'm always on the lookout for exciting projects, collaborations, and networking opportunities. If you're looking to discuss a project, or simply want to connect with a fellow tech enthusiast, don't hesitate to get in touch.
-Let's code, create, and innovate together! 🌟
+I'm a student who loves experimenting with technology and learning new things. In the ever-evolving world of technology, I'm committed to continuous learning. I stay up-to-date with the latest trends, tools, and best practices in web development. I'm always on the lookout for exciting projects, collaborations, and networking opportunities. If you're looking to discuss a project, or simply want to connect with a fellow tech enthusiast, don't hesitate to get in touch.<br>
+Let's code, create, and innovate together! 🌟<br>
 📫 Feel free to reach out to me 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kapilsinghnegi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilsinghnegi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kapilsinghnegi_) 
