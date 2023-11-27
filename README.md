@@ -1,4 +1,4 @@
-## Hey 👋, I'm Kapil Singh Negi!  
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kapil Singh Negi.
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=08BA00&center=true&vCenter=true&multiline=true&random=false&width=350&height=75&lines=Welcome+to;Kapil+Singh+Negi's+Github" alt="Typing SVG" /></a></div>
 
@@ -20,5 +20,3 @@ Let's code, create, and innovate together! 🌟<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kapilsinghnegi&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
