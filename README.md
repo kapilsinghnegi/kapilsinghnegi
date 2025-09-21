@@ -1,7 +1,8 @@
 <header>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=0D0D0D&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg#gh-dark-mode-only)  
+
 </header>
 
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kapil Singh Negi.
@@ -18,12 +19,20 @@ Let's code, create, and innovate together! 🌟
 
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,bootstrap,nodejs,express,npm,webpack,babel,redux,jquery,vercel,git,github,postgres,mysql,mongodb,figma,vscode,sublime,cpp,py,pycharm,anaconda,&theme=dark)](https://github.com/kapilsinghnegi/)
 
-### 💻 Working on:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,threejs&theme=dark)](https://github.com/kapilsinghnegi/)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,expressjs,nodejs,mongodb,tailwindcss,nextjs,postgresql,redux,postman,materialui,firebase,supabase,jest,git,github,python,css,html,bootstrap,styledcomponents,npm,pnpm,babel,figma,pycharm,anaconda,vite,vitest,vercel,netlify,markdown,vscode,linux,bash&theme=light&perline=18)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,expressjs,nodejs,mongodb,tailwindcss,nextjs,postgresql,redux,postman,materialui,firebase,supabase,jest,git,github,python,css,html,bootstrap,styledcomponents,npm,pnpm,babel,figma,pycharm,anaconda,vite,vitest,vercel,netlify,markdown,vscode,linux,bash&theme=dark&perline=18)](https://skillicons.dev#gh-dark-mode-only)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 📊 GitHub Stats
+<details>
+  <summary>View GitHub Stats</summary>
+  
+  [![kapilsinghnegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilsinghnegi&show_icons=true&theme=default)](https://github.com/kapilsinghnegi/#gh-light-mode-only)
+  [![kapilsinghnegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilsinghnegi&show_icons=true&theme=dark)](https://github.com/kapilsinghnegi/#gh-dark-mode-only)
 
-[![](https://visitcount.itsvg.in/api?id=kapilsinghnegi&icon=0&color=12)](https://visitcount.itsvg.in)
+</details>
+
+
+#### Show some ❤️ by starring some of the repositories!
+
+![](https://komarev.com/ghpvc/?username=kapilsinghnegi&color=blue&abbreviated=true)
