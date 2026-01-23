@@ -13,26 +13,33 @@ If you would like to discuss a project or connect with a fellow tech enthusiast,
 Let's code, create, and innovate together! 🌟
 <br>
 
-### 🌐 Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/kapil-singh-negi/) 
+### Social Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/kapilsinghnegi/) 
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=black&color=white)](https://x.com/kapilsinghnegi_)
 
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,expressjs,nodejs,mongodb,tailwindcss,nextjs,postgresql,redux,postman,materialui,firebase,supabase,jest,git,github,python,css,html,bootstrap,styledcomponents,npm,pnpm,babel,figma,pycharm,anaconda,vite,vitest,vercel,netlify,markdown,vscode,linux,bash&theme=light&perline=18)](https://skillicons.dev#gh-light-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,expressjs,nodejs,mongodb,tailwindcss,nextjs,postgresql,redux,postman,materialui,firebase,supabase,jest,git,github,python,css,html,bootstrap,styledcomponents,npm,pnpm,babel,figma,pycharm,anaconda,vite,vitest,vercel,netlify,markdown,vscode,linux,bash&theme=dark&perline=18)](https://skillicons.dev#gh-dark-mode-only)
 
-### 📊 GitHub Stats
+### GitHub Stats
 <details>
   <summary>View GitHub Stats</summary>
+  <br>
   
   [![kapilsinghnegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilsinghnegi&show_icons=true&theme=default)](https://github.com/kapilsinghnegi/#gh-light-mode-only)
   [![kapilsinghnegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilsinghnegi&show_icons=true&theme=dark)](https://github.com/kapilsinghnegi/#gh-dark-mode-only)
-
+  
 </details>
-
 
 #### Show some ❤️ by starring some of the repositories!
 
-![](https://komarev.com/ghpvc/?username=kapilsinghnegi&color=blue&abbreviated=true)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+    <img src="https://cdn.simpleicons.org/github" width="20"/>
+  </picture>
+  <img src="https://komarev.com/ghpvc/?username=kapilsinghnegi&color=blue&abbreviated=true" />
+</p>
