@@ -15,7 +15,7 @@ Let's code, create, and innovate together! 🌟
 
 ### Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/kapilsinghnegi/) 
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=black&color=white)](https://x.com/kapilsinghnegi_)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=black&color=white)](https://x.com/kapilsinghnegii)
 
 
 ### Tech Stack:
