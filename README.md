@@ -33,6 +33,9 @@ Let's code, create, and innovate together! 🌟
   
 </details>
 
+[![An image of @kapilsinghnegi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kapilsinghnegi)](https://holopin.io/@kapilsinghnegi)
+
+
 #### Show some ❤️ by starring some of the repositories!
 
 <p align="left">
